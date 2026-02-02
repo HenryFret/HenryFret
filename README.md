@@ -7,7 +7,7 @@
 - **Software Engineering:** von Anforderungen → Modellierung → Umsetzung (saubere Architektur, verständlicher Code)
 - **Web Development:** Full-Stack Basics mit Fokus auf solide Grundlagen (Frontend + Backend)
 - **Daten & Datenbanken:** SQL, Datenmodellierung, Abfragen & Auswertungen
-- **Team & Workflow:** Git-basierter Workflow, klare Repo-Struktur, verständliche README/Doku
+- **Team & Workflow:** Git-basierter Workflow, klare Repo-Struktur
 
 ## Skills
 - **Languages:** Java · JavaScript · PHP · HTML · CSS  
